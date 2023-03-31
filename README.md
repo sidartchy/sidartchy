@@ -17,4 +17,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidartchy&count_private=true&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sidartchy)](https://git.io/streak-stats)
